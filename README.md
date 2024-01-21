@@ -1,3 +1,2 @@
-#Project-Name: airbnb-clone
+#ProjectName airbnbclone
 
-#Tech Stack used : MERN Stack (MongoDB , Express , React ,Node) and Tailwind CSS
