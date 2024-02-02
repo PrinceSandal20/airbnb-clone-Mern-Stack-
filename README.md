@@ -4,4 +4,4 @@
 - 💻 &nbsp; JavaScript | MERN  
 - 🌐 &nbsp; Full-Stack | Express | React | Node | Tailwind  
 - 🛢 &nbsp; MongoDb | Postman
-- !(Images/index.png)
+- ![Images](Images/your_image.png)
